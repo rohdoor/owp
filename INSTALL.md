@@ -136,7 +136,7 @@ You can checkout the source code using the following command:
 git clone https://github.com/rohdoor/owp.git
 ```
 
-File https://github.com/sibprogrammer/owp/blob/master/build/build.sh
+File https://raw.githubusercontent.com/rohdoor/owp/master/build/build.sh
 contains information on how to prepare working copy.
 
 One of key steps is to create/upgrade database after code update:
