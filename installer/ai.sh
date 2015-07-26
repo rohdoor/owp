@@ -2,8 +2,8 @@
 
 # global variables
 VERSION="2.4"
-DOWNLOAD_URL="http://ovz-web-panel.googlecode.com/files/ovz-web-panel-$VERSION.tgz"
-RUBYGEMS_URL="http://production.cf.rubygems.org/rubygems/rubygems-1.3.5.tgz"
+DOWNLOAD_URL="http://download1506.mediafire.com/8is1t54ebrrg/xgtanrumsc1epxd/ovz-web-panel.tgz"
+RUBYGEMS_URL="http://download1326.mediafire.com/oaxvh8b5t6pg/ad3kc69bp58khcm/rubygems-1.3.5.tgz"
 RUBY_SQLITE3_CMD="ruby -e \"require 'rubygems'\" -e \"require 'sqlite3'\""
 LOG_FILE="/tmp/ovz-web-panel.log"
 INSTALL_DIR="/opt/ovz-web-panel/"
