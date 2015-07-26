@@ -8,7 +8,7 @@ cd `dirname $0`
 
 {
   PROJECT="ovz-web-panel"
-  REPO="git://github.com/sibprogrammer/owp.git"
+  REPO="git://github.com/rohdoor/owp.git"
 
   [ -d $PROJECT ] && rm -rf ovz-web-panel
 
